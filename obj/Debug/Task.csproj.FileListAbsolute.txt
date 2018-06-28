@@ -1,0 +1,11 @@
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\Task.dll.config
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\Task.dll
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\Task.pdb
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\EntityFramework.dll
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\EntityFramework.SqlServer.dll
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\EntityFramework.xml
+D:\D1-D2\15. Serialization\Task\Task\Task\bin\Debug\EntityFramework.SqlServer.xml
+D:\D1-D2\15. Serialization\Task\Task\Task\obj\Debug\Task.dll
+D:\D1-D2\15. Serialization\Task\Task\Task\obj\Debug\Task.pdb
+D:\D1-D2\15. Serialization\Task\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
